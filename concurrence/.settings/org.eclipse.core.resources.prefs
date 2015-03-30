@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//concurrency/multi_process_queue.py=utf-8
+encoding//concurrency/ring_no_io_proc.py=utf-8
+encoding//concurrency/ring_no_io_queue.py=utf-8
